@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>My Friends</title>
+</head>
+<body style="background-image: url(bg14.png);background-size: 100% 100%;">
+<center><a href='index.html'title='My Personal Website'><img src='picc.png' border='0' height='15%' width='20%'/></a></center>
+<font size="16"font face="verdana"><p align="center">MY FRIENDS</p></font>
+<body link="blue"alink="black"vlink="red"></body>
+<br>
+<table border="2"width="50%"align="center">
+<tr align="center"bgcolor="pink">
+<td><b><h3>My Best Friends</h3></b></td>
+</tr>
+</table>
+
+<img src="kawan4.jpeg"border="2"width="25%"height="30%"hspace="90"vspace="30"align="left">
+<img src="kawan10.jpeg"border="2"width="25%"height="30%"hspace="5"vspace="30"align="left">
+<img src="kawan3.jpeg"border="2"width="20%"height="30%"hspace="90"vspace="30"align="right">
+
+<table border="2"width="50%"align="center">
+<tr align="center"bgcolor="pink">
+<td><b><h3>My Friends from University</h3></b></td>
+</tr>
+</table>
+
+<img src="kawan6.jpeg"border="2"width="20%"height="30%"hspace="90"vspace="30"align="left">
+<img src="kawan1.jpeg"border="2"width="25%"height="30%"hspace="38"vspace="30"align="left">
+<img src="kawan2.jpeg"border="2"width="20%"height="30%"hspace="90"vspace="30"align="right">
+
+<table border="2"width="50%"align="center">
+<tr align="center"bgcolor="pink">
+<td><b><h3>My High School Friends</h3></b></td>
+</tr>
+</table>
+
+<img src="kawan11.jpeg"border="2"width="20%"height="30%"hspace="90"vspace="30"align="left">
+<img src="kawan8.jpeg"border="2"width="20%"height="30%"hspace="60"vspace="30"align="left">
+<img src="kawan7.jpeg"border="2"width="20%"height="30%"hspace="90"vspace="30"align="right">
+
+<img src="kawan9.jpeg"border="2"width="20%"height="50%"hspace="90"vspace="20"align="left">
+<img src="kawan.jpeg"border="2"width="20%"height="50%"hspace="60"vspace="20"align="left">
+<img src="kawan12.jpeg"border="2"width="20%"height="50%"hspace="90"vspace="20"align="right">
+</body>
+</html>

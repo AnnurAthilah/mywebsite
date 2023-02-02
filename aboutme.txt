@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>About Me</title>
+</head>
+<body style="background-image: url(bg8.png);background-size: 100% 100%;">
+<center><a href='index.html'title='My Personal Website'><img src='picc.png' border='0' height='15%' width='20%'/></a></center>
+<font color="white"font size="16"font face="Candara"><p align="center">ABOUT ME</p></font>
+<body link="aqua"alink="pink"vlink="yellow"></body>
+<br>
+<img src="aku.jpeg"border="3"width="20%"height="55%"align="left"hspace="50"vspace="30">
+<img src="aku3.jpeg"border="3"width="20%"height="55%"align="right"hspace="50"vspace="30">
+<br>
+<b><font color="pink"font face="verdana"font size="4"</font></b>
+<ul>
+<li>Annur Athilah Binti Che Aziz</li>
+<li>Tanah Merah, Kelantan</li>
+<li>22 years old</li>
+<li>9th April 2000</li>
+<li>Uitm Kedah</li>
+<li>Like watching television and window shopping</li>
+<li>Favourite food : Red-cooked chicken</li>
+</ul>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<embed src="my video.mp4"autostart="false"width="40%"height="40%"hspace="50"vspace="30"align="right">
+<img src="aku2.jpeg"border="3"width="25%"height="30%"align="center"hspace="30"vspace="30">
+
+<body>
+</body>
+</html>

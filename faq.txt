@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>FAQ</title>
+</head>
+<body style="background-image: url(bg15.png);background-size: 100% 100%;">
+<center><a href='index.html'title='My Personal Website'><img src='picc.png' border='0' height='15%' width='20%'/></a></center>
+<font face="verdana"><center><h1>FAQ</h1><center></font>
+<body link="aqua"alink="pink"vlink="yellow"></body>
+<br>
+<br>
+<br>
+<font color="pink"font face="verdana"align="left"><h3>1. Where are you from?</h3></font>
+<font color="black"font face="verdana"align="left"><p>I'm from Tanah Merah, Kelantan.</p></font>
+<br>
+<font color="pink"font face="verdana"align="left"><h3>2. Are you still study?Where are you studying?</h3></font>
+<font color="black"font face="verdana"align="left"><p>Yes, i am. I study at UiTM Cawangan Kedah.</p></font>
+<br>
+<font color="pink"font face="verdana"align="left"><h3>3. How old are you?</h3></font>
+<font color="black"font face="verdana"align="left"><p>I am 22 years old.</p></font>
+<br>
+<font color="pink"font face="verdana"align="left"><h3>4. You are a diploma or degree student?</h3></font>
+<font color="black"font face="verdana"align="left"><p>I am a degree student.</p></font>
+</body>
+</html>

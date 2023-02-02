@@ -1,0 +1,86 @@
+<html>
+<head>
+<title>My Family</title>
+</head>
+<body style="background-image: url(bg10.png);background-size: 100% 100%;">
+<center><a href='index.html'title='My Personal Website'><img src='picc.png' border='0' height='15%' width='20%'/></a></center>
+<font face="Trebuchet MS"><center><h1>My Wonderful Family</h1><center></font>
+<body link="black"alink="blue"vlink="red"></body>
+<br>
+<br>
+<br>
+<br>
+<img src="family.jpg"width="40%"height="80%"border="3"hspace="40"align="left">
+<p align="right"><h2>This is my family of 8 people. They are my father, my mother, my 3 brothers, me and my 2 sisters.</h2></p>
+<b><table border="3"width="40%"align="center"cellpadding="3">
+<tr align="center"valign="middle">
+<td><b>Family</b></td>
+<td><b>Name</b></td>
+</tr>
+
+<tr>
+<td><b>Father</b></td>
+<td><b>Che Aziz Bin Mohammed</b></td>
+</tr>
+
+<tr>
+<td><b>Mother</b></td>
+<td><b>Saharizah Binti Awang</b></td>
+</tr>
+
+<tr>
+<td><b>Me</b></td>
+<td><b>Annur</b></td>
+</tr>
+
+<tr>
+<td><b>Brothers</b></td>
+<td><ol><b>
+<li>Aiman</li>
+<li>Faris</li>
+<li>Afiq</li>
+</b></ol></td>
+</tr>
+
+<tr>
+<td><b>Sisters</b></td>
+<td><ol><b>
+<li>Afiqah</li>
+<li>Ainnur</li>
+</b></ol></td>
+</tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<table border="3"cellpadding="6">
+<tr bgcolor="pink">
+<td><b>My father</b></td>
+<td><b>61 years old a retired policeman, from Tapah, Perak, likes to eat vermicelli soup, likes to stroll around and clean up the houseyard on his leisure time</b></td>
+</tr>
+
+<tr bgcolor="pink">
+<td><b>My mother</b></td>
+<td><b>54 years old, a teacher, from Jeli, Kelantan, likes cooking and homefood</b></td>
+</tr>
+
+<tr bgcolor="pink">
+<td><b>My siblings</b></td>
+<td><b>5 out of 6 are a full time student</b></td>
+</tr>
+</table>
+
+<img src="family4.png"width="15%"height="70%"border="3"hspace="70"vspace="100"align="left">
+<img src="family2.jpeg"width="20%"height="50%"border="3"hspace="30"vspace="150"align="left">
+<img src="family3.png"width="35%"height="50%"border="3"hspace="70"vspace="150"align="right">
+</body>
+</html>

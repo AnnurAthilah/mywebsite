@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Index</title>
+</head>
+<body style="background-image: url(bg9.png);background-size: 100% 100%;">
+<center><a href='index.html'title='My Personal Website'><img src='picc.png' border='0' height='15%' width='20%'/></a></center>
+<br>
+<br>
+<body link="white"alink="aqua"vlink="pink"></body>
+<table border="2"align="center"cellpadding="13"cellspacing="5">
+<tr align="center"valign="middle"bgcolor="black">
+<td><a href="index.html">HOME</a></td>
+<td><a href="aboutme.html">ABOUT ME</a></td>
+<td><a href="myfamily.html">MY FAMILY</a></td>
+<td><a href="mysiblings.html">MY SIBLINGS</a></td>
+<td><a href="myfriends.html">MY FRIENDS</a></td>
+<td><a href="mycontact.html">MY CONTACT</a></td>
+<td><a href="faq.html">FAQ</a></td>
+</tr>
+</table>
+<br>
+<br>
+<font size="16"font face="Candara"><p align="left">HELLO!</p></font>
+<ul>
+<li><font size="5"font face="Comic Sans MS"><p align="left">I am Annur. Feel free to look >_<</p></font></li>
+<li><font size="5"font face="Comic Sans MS"><p align="left">Just click the link above.</p></font></li>
+<li><font size="5"font face="Comic Sans MS"><p align="left">Have a good day!</p></font></li>
+</ul>
+<img src="aku1.jpeg"align="right"hspace="40"vspace="20"width="20%"height="50%"border="2">
+</body>
+</html>
